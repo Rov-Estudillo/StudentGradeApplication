@@ -1,0 +1,16 @@
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.exe
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.deps.json
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.runtimeconfig.json
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.dll
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\bin\Debug\net8.0-windows\StudentGradeApplication.pdb
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.frmStudentGradeProgram.resources
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.csproj.GenerateResource.cache
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.AssemblyInfoInputs.cache
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.AssemblyInfo.cs
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.csproj.CoreCompileInputs.cache
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.dll
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\refint\StudentGradeApplication.dll
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.pdb
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\StudentGradeApplication.genruntimeconfig.cache
+C:\Users\Zoey\Documents\cSharp Files\StudentGradeApplication\StudentGradeApplication\obj\Debug\net8.0-windows\ref\StudentGradeApplication.dll
